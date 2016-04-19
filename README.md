@@ -6,6 +6,4 @@
 
  Alunos:
 
- Cláudio Agner
- Denise
- Luma
+ Cláudio Agner; Denise; Luma
